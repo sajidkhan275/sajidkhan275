@@ -4,14 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=411482&width=380&height=28&lines=Passionate+Individual..;Empowering+Others;Thanks+for+watching+my+profile....&center=true" />
 </p>
 
-
 ### 💫 About Me:
 🌱 I’m FullStack DotNet Developer <br>💬 Ask me about Blazor, .Net core, SQL Server, Azure,  Boostrap and HTML/CSS<br>📫 How to reach me sajidkhan275@gmail.com<br>⚡ Fun fact I can help you more effectively with tea instead of coffee
 
 ### 💻 Tech Stack:
-
-## 🧰 Tech Stack
-
 ### 🖥️ Languages & Frameworks
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
