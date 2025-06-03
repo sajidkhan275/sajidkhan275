@@ -27,6 +27,8 @@
 
 ### 💾 Data & ORM
 <img src="https://img.shields.io/badge/MS--SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /><img src="https://img.shields.io/badge/Entity%20Framework-68217A?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Dapper-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+
 
 ### 🧪 Testing & CI/CD
 <img src="https://img.shields.io/badge/Unit%20Testing-8A2BE2?style=for-the-badge&logo=xunit&logoColor=white" /><img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
