@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Mohammed Sajid
+<h1 align="center">Hi 👋, I'm Mohammed Sajid</h1>
 <h3 align="center">I'm a passionate full-stack .NET developer with a strong focus on building scalable, secure, and enterprise-grade applications using modern Microsoft technologies. I enjoy working on Blazor apps, RESTful APIs, and Azure-based distributed systems.</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=411482&width=380&height=28&lines=Passionate+Individual..;Empowering+Others;Thanks+for+watching+my+profile....&center=true" />
