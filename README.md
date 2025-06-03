@@ -1,13 +1,12 @@
 ## Hi there 👋 I'm Mohammed Sajid
-<h3 align="center">A passionate developer and Software Engineer from India</h3>
+<h3 align="center">I'm a passionate full-stack .NET developer with a strong focus on building scalable, secure, and enterprise-grade applications using modern Microsoft technologies. I enjoy working on Blazor apps, RESTful APIs, and Azure-based distributed systems.</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=411482&width=380&height=28&lines=Passionate+Individual..;Empowering+Others;Thanks+for+watching+my+profile....&center=true" />
 </p>
 
 
 ### 💫 About Me:
-👨‍💻 You can check my portfolio at [https://sites.google.com/view/mahipalchoudhary](https://www.linkedin.com/in/mohammed-sajid-net/)<br>🌱 
-I’m FullStack DotNet Developer <br>💬 Ask me about Blazor, .Net core, SQL Server, Azure,  Boostrap and HTML/CSS<br>📫 How to reach me sajidkhan275@gmail.com<br>⚡ Fun fact I can help you more effectively with tea instead of coffee
+🌱 I’m FullStack DotNet Developer <br>💬 Ask me about Blazor, .Net core, SQL Server, Azure,  Boostrap and HTML/CSS<br>📫 How to reach me sajidkhan275@gmail.com<br>⚡ Fun fact I can help you more effectively with tea instead of coffee
 
 ### 💻 Tech Stack:
 
@@ -40,7 +39,16 @@ I’m FullStack DotNet Developer <br>💬 Ask me about Blazor, .Net core, SQL Se
 
 ## 📈 GitHub Stats
 ![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajidkhan275&show_icons=true&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sajidkhan275&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sajidkhan275&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sajidkhan275&theme=default&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sajidkhan275&limit=5&theme=default&combine_all_yearly_contributions=true)
+
+[![](https://visitcount.itsvg.in/api?id=sajidkhan275&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
 ## 📫 Connect with Me
 
