@@ -1,4 +1,5 @@
 ## Hi there 👋 I'm Mohammed Sajid
+<h3 align="center">A passionate developer and Software Engineer from India</h3>
 
 <!--
 **sajidkhan275/sajidkhan275** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
