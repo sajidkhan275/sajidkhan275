@@ -5,13 +5,16 @@
 </p>
 
 ### 💫 About Me:
-🌱 I’m FullStack DotNet Developer <br>💬 Ask me about Blazor, .Net core, SQL Server, Azure,  Boostrap and HTML/CSS<br>📫 How to reach me sajidkhan275@gmail.com<br>⚡ Fun fact I can help you more effectively with tea instead of coffee
+🌱 I’m FullStack DotNet Developer <br>💬 Ask me about Blazor, .Net core, SQL Server, Azure, Angular, Boostrap and HTML/CSS<br>📫 How to reach me sajidkhan275@gmail.com<br>⚡ Fun fact I can help you more effectively with tea instead of coffee
 
 ### 💻 Tech Stack:
 ### 🖥️ Languages & Frameworks
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
 <img src="https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/> 
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+
 
 ### ☁️ Cloud & Azure Services
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" /> <img src="https://img.shields.io/badge/Azure%20Service%20Bus-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
